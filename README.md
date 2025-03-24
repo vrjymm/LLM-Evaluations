@@ -1,4 +1,4 @@
-# 📚 Summary Evaluation Metrics using LLMs & NLP
+# 📚 Summary Evaluation using LLMs & NLP
 
 This project evaluates machine-generated summaries using a combination of traditional NLP metrics (ROUGE, BERTScore) and referenceless Large Language Model (LLM)-powered metrics (e.g., Bias, Toxicity, Hallucination, etc.).
 
