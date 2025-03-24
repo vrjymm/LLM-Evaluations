@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "source":"Rep: Good morning, thanks for taking the time today. I wanted to check in and see how your experience with our latest inhaler product has been.\nCustomer: Thanks. It's been mostly good, but I had some trouble with the dosage instructions. They\u2019re a bit unclear.\nRep: I\u2019m glad it\u2019s mostly working for you. What part of the instructions was confusing?\nCustomer: Mainly the timing\u2014whether to use it before or after meals.\nRep: That\u2019s a great point. The latest guidance recommends using it 30 minutes before meals. We\u2019ve recently released updated usage instructions with visuals. Would you be open to receiving those?\nCustomer: Yes, that would be helpful. I think visuals would make it easier for patients too.\nRep: Absolutely. I\u2019ll make sure those are sent to you. Also, we\u2019ve started offering virtual training sessions. Would you or your staff benefit from that?\nCustomer: Possibly, yes. I have two nurses who onboard new patients. It might help them answer questions better.\nRep: Perfect. I\u2019ll coordinate with our training team to set up a session next week. Does that work?\nCustomer: Yes, that\u2019s great. Appreciate the support.\nRep: Anytime. Let me know if anything else comes up.",
+    "reference_summary":"Customer was satisfied with the inhaler but found dosage timing unclear. Rep clarified instructions, offered visual materials, and scheduled staff training.",
+    "model_1_summary":"Customer liked the inhaler but needed help with dosage. Rep sent visuals and scheduled training.",
+    "model_2_summary":"Rep clarified dosage timing and helped schedule support for patient onboarding.",
+    "model_3_summary":"Rep discussed training needs and product improvements with the customer."
+  },
+  {
+    "id":2,
+    "source":"Rep: Hi! How\u2019s the transition to the new glucose monitoring device going?\nCustomer: It's been a bit rocky. My patients are finding it hard to sync data to the app.\nRep: That\u2019s good feedback. Can you describe the issue in more detail?\nCustomer: Sure. The app sometimes fails to detect the device even when it\u2019s connected. Some patients just give up.\nRep: We\u2019re actually working on a firmware update to fix that sync issue. Would you like to be notified when it\u2019s released?\nCustomer: Definitely. That would help a lot. Do you have an ETA?\nRep: Tentatively two weeks. I can also arrange for a technical support call to help troubleshoot.\nCustomer: That would be great. Some of our elderly patients are really struggling.\nRep: Totally understand. We can also provide printed guides with large text. Would you like a batch of those?\nCustomer: Yes, send 15 copies please.\nRep: Got it. I\u2019ll get those out this afternoon and confirm the call details by email.\nCustomer: Thanks. I really appreciate the follow-up.\nRep: Anytime! Let me know how else we can support your practice.",
+    "reference_summary":"Customer reported sync issues with the glucose monitor app. Rep discussed a firmware update, offered a support call, and sent printed guides to assist elderly patients.",
+    "model_1_summary":"Rep promised a firmware update and printed materials to help with syncing issues.",
+    "model_2_summary":"Customer discussed app problems, and the rep followed up with support and print guides.",
+    "model_3_summary":"The rep trained patients on syncing the device and resolved issues."
+  },
+  {
+    "id":3,
+    "source":"Rep: Hello again! I wanted to follow up on your trial of the cholesterol management program.\nCustomer: The content is solid, but I haven\u2019t had time to go through the full modules. Things are busy at the clinic.\nRep: Totally understand. We\u2019re finding that some HCPs prefer receiving summaries or scheduled nudges. Would setting up reminders or a support call help?\nCustomer: Yes, probably a support call. I\u2019m more likely to commit if it\u2019s on the calendar.\nRep: That makes sense. I\u2019ll have our team schedule a short 15-minute call this week. Morning or afternoon better?\nCustomer: Afternoons are better. And maybe send a one-pager recap of the program too?\nRep: Absolutely. We\u2019ve just created a condensed overview sheet\u2014we\u2019ll send that along with the call invite.\nCustomer: Great. One more thing: do you have results data from the pilot cohort?\nRep: Yes! Early data shows a 12% LDL reduction over 6 weeks. I\u2019ll include the clinical snapshot in the follow-up email.\nCustomer: That\u2019s useful\u2014could help justify adoption to leadership.\nRep: Glad to hear it. We\u2019ll follow up with everything today.",
+    "reference_summary":"Customer hadn't completed the cholesterol program due to time constraints. Rep offered a support call, sent summary materials, and shared clinical data to support adoption.",
+    "model_1_summary":"Rep followed up and scheduled support to help the customer complete the program.",
+    "model_2_summary":"The rep shared program summaries and pilot data to support customer interest.",
+    "model_3_summary":"Customer finished the program and shared positive results."
+  }
+]
