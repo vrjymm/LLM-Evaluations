@@ -19,8 +19,7 @@ This project evaluates machine-generated summaries using a combination of tradit
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/summary-eval.git
-cd summary-eval
+git clone https://github.com/vrjymm/LLM-Evaluations.git
 ```
 
 ### 2. Install dependencies
@@ -42,7 +41,8 @@ pip install pandas matplotlib seaborn plotly dash bert_score rouge_score anthrop
 ## 🧪 Run Evaluation
 
 ```bash
-python summary_evaluation.py
+cd LLM\ Evaluations 
+python summary_evaluations.py
 ```
 
 This loads the dataset, runs metrics for each model, and saves the results to `summary_eval_scores.csv`.
